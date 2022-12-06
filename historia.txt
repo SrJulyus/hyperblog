@@ -2,4 +2,19 @@ Esta es la historia de Jülyus Zaburopsky
 
 Jülyus Zaburopsky no recuerda su edad ni su providencia
 
+King Julyus es un colaborador de este proyecto open source
+
+Al fin pude hacer git push desde otra cuenta desde mi misma laptop
+luego de 3 días vatallando. 
+Lo solucione creando un nuevo email, luego una nueva cuenta en GitHub
+luego una llave SSH para ese email, guardado en "~/.ssh2/id_rsa"
+Cambiando la configuracion global al nuevo email, agregando la llave SSH
+del nuevo email a la nueva cuenta de GitHub y asi finalmente pude agregar
+el commit al repositorio remoto forkeado del proyecto original
+Todo eso para hacerme pasar por un colaborador anonimo de internet que quiere
+ayudar al magestuoso proyecto de "Hyperblog" y hacer cambios sin ser colaborador.
+Fue estresante pero valío la pena, ya que ahora tengo un mayor entendimiento
+de las cuentas y se solucionar un problema mas en el mundo de la programación.i
+
+
 Mañana nos enfocaremos en si vida laboral.
